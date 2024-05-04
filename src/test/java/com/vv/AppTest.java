@@ -1,4 +1,4 @@
-package com.zenika;
+package com.vv;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
